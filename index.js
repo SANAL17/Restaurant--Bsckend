@@ -1,5 +1,5 @@
 // import json-server
-const jsonServer = require()
+const jsonServer = require('json-server')
 
 //create an server application using jsonServer
 const restServer = jsonServer.create()
